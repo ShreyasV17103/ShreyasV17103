@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on LLM's , AGENTIC AI
+- 🔭 I’m currently working on QA Bot 
 - 🌱 I’m currently learning Agentic AI , API's 
 - 👯 I’m looking to collaborate on new AI technologies
 - 💬 Python/Java/SQL
